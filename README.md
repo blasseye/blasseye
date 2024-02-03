@@ -8,6 +8,12 @@
 <h3>Tools and Languages:</h3>
 
 <div align="center" id="toolsAndLanguages">
+<a href="https://dart.dev/">
+<img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" 
+alt="Dart"/></a>
+<a href="https://flutter.dev/">
+<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" 
+alt="Flutter"/></a>
 <a href="https://www.w3schools.com/c/">
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" 
 alt="C"/></a>

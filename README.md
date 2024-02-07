@@ -32,6 +32,12 @@ lt="Shell Script"/></a>
 <a href="https://www.w3schools.com/python/">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" a
 lt="Python"/></a>
+<a href="https://www.sonarsource.com/">
+<img src="https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD" a
+lt="SonarQube"/></a>
+<a href="https://docs.docker.com/">
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" a
+lt="Docker"/></a>
 <a href="https://www.openstack.org/">
 <img src="https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white" a
 lt="OpenStack"/></a>

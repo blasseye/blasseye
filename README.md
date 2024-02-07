@@ -7,7 +7,7 @@
 
 <h3>Languages:</h3>
 
-<div align="center" id="toolsAndLanguages">
+<div align="center" id="languages">
 <a href="https://dart.dev/">
 <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" 
 alt="Dart"/></a>
@@ -36,6 +36,7 @@ lt="Python"/></a>
 
 <h3>Tools:</h3>
 
+<div align="center" id="tools">
 <a href="https://www.sonarsource.com/">
 <img src="https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD" a
 lt="SonarQube"/></a>
@@ -45,5 +46,7 @@ lt="Docker"/></a>
 <a href="https://www.openstack.org/">
 <img src="https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white" a
 lt="OpenStack"/></a>
+</div>
+
 ---
 

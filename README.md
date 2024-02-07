@@ -5,7 +5,7 @@
 - I am an  **[OpenStack](https://www.openstack.org/blog/new-in-openstack-bobcat-horizon-team-introduces-time-based-one-time-password-totp-authentication-support/)** contributor 
 - How to reach me **blasseye@ikmail.com**
 
-<h3>Tools and Languages:</h3>
+<h3>Languages:</h3>
 
 <div align="center" id="toolsAndLanguages">
 <a href="https://dart.dev/">
@@ -32,6 +32,10 @@ lt="Shell Script"/></a>
 <a href="https://www.w3schools.com/python/">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" a
 lt="Python"/></a>
+</div>
+
+<h3>Tools:</h3>
+
 <a href="https://www.sonarsource.com/">
 <img src="https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD" a
 lt="SonarQube"/></a>
@@ -41,7 +45,5 @@ lt="Docker"/></a>
 <a href="https://www.openstack.org/">
 <img src="https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white" a
 lt="OpenStack"/></a>
-</div>
-
 ---
 

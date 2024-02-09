@@ -24,31 +24,34 @@ alt="C++"/></a>
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" 
 alt="CSS3"/></a>
 <a href="https://www.w3schools.com/html/">
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" a
-lt="HTML5"/></a>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
+alt="HTML5"/></a>
 <a href="https://www.learnshell.org/">
-<img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" a
-lt="Shell Script"/></a>
+<img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"
+alt="Shell Script"/></a>
 <a href="https://www.w3schools.com/python/">
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" a
-lt="Python"/></a>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"
+alt="Python"/></a>
 </div>
 
 <h3>Tools:</h3>
 
 <div align="center" id="tools">
 <a href="https://www.sonarsource.com/">
-<img src="https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD" a
-lt="SonarQube"/></a>
+<img src="https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD"
+alt="SonarQube"/></a>
 <a href="https://docs.docker.com/">
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" a
-lt="Docker"/></a>
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"
+alt="Docker"/></a>
+<a href="https://kubernetes.io/">
+<img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"
+alt="Kubernetes"/></a>
 <a href="https://www.openstack.org/">
-<img src="https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white" a
-lt="OpenStack"/></a>
-<a href="https://aws.amazon.com/fr/s3/">
-<img src="https://img.shields.io/badge/AWS_S3-%23FF9900.svg?style=for-the-badge&logo=amazon-s3&logoColor=white" a
-lt="AWS S3"/></a>
+<img src="https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white"
+alt="OpenStack"/></a>
+<a href="https://aws.amazon.com/s3/">
+<img src="https://img.shields.io/badge/AWS_S3-%23FF9900.svg?style=for-the-badge&logo=amazon-s3&logoColor=white"
+alt="AWS S3"/></a>
 </div>
 
 ---

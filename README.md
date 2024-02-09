@@ -46,6 +46,9 @@ lt="Docker"/></a>
 <a href="https://www.openstack.org/">
 <img src="https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white" a
 lt="OpenStack"/></a>
+<a href="https://aws.amazon.com/fr/s3/">
+<img src="https://img.shields.io/badge/AWS_S3-%23FF9900.svg?style=for-the-badge&logo=amazon-s3&logoColor=white" a
+lt="AWS S3"/></a>
 </div>
 
 ---

@@ -1,9 +1,10 @@
 <h1 align="center">Hi👋, I'm Benjamin</h1>
-<h3 align="center">Digital engineer</h3>
+<h3 align="center">Software engineer</h3>
 <br>
 
-- I am an  **[OpenStack](https://www.openstack.org/blog/new-in-openstack-bobcat-horizon-team-introduces-time-based-one-time-password-totp-authentication-support/)** contributor 
-- How to reach me **blasseye@ikmail.com**
+- My **[portfolio](https://portfolio.blasseye.fr/)**
+- **[OpenStack](https://www.openstack.org/blog/new-in-openstack-bobcat-horizon-team-introduces-time-based-one-time-password-totp-authentication-support/)** contributor 
+- How to reach me **[blasseye@ikmail.com](blasseye@ikmail.com)**
 
 <h3>Languages:</h3>
 

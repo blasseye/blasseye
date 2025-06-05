@@ -2,7 +2,7 @@
 <h3 align="center">Software engineer</h3>
 <br>
 
-- My **[portfolio](https://portfolio.blasseye.fr/)**
+- My **[blog](https://echo.blasseye.fr/)** [FR]
 - **[OpenStack](https://www.openstack.org/blog/new-in-openstack-bobcat-horizon-team-introduces-time-based-one-time-password-totp-authentication-support/)** contributor 
 - How to reach me **[contact@blasseye.fr](contact@blasseye.fr)**
 
